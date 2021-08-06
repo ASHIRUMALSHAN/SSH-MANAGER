@@ -1,10 +1,10 @@
-# 📌DARKSSH new update v2
+# 📌SSH new update v2
 
 * UPDATE 01/06/2021
 
 *  Have Telegram ssh create bot
 
-# 📌DARKSSH MANAGER
+# 📌SSH-MANAGER
 
 * යාවත්කාලීන කිරීම 11/05/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
@@ -24,46 +24,46 @@
 ## :book: Installation
 ```
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ASHIRUMALSHAN/SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 
-# 🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥
+# @AAHIRU MALSHAN 🇱🇰 
 
 -------------------------------------------------------------------------------
 
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
+<img align="right" src="https://github.com/AAHIRUMALSHAN/SSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
 
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/DARKSSH.jpg)
+![logo](https://github.com/AAHIRUMALSHAN/SSH-MANAGER/blob/main/image/DARKSSH.jpg)
 
-[![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
-[![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
-[![Size](https://img.shields.io/github/repo-size/sbatrow/DARKSSH-MANAGER?style=flat-square&color=green)](https://github.com/sbatrow/DARKSSH-MANAGER/)   
+[![Stars](https://img.shields.io/github/stars/ASHIRUMALSHAN/SSH-MANAGER?style=flat-square&color=yellow)](https://github.com/ASHIRUMALSHAN/SSH-MANAGER/stargazers)
+[![Forks](https://img.shields.io/github/forks/ASHIRUMALSHAN/SSH-MANAGER?style=flat-square&color=orange)](https://github.com/ASHIRUMALSHAN/SSH-MANAGER/fork)
+[![Size](https://img.shields.io/github/repo-size/ASHIRUMALSHAN/SSH-MANAGER?style=flat-square&color=green)](https://github.com/AAHIRUMALSHAN/SSH-MANAGER/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sbatrow/DARKSSH-MANAGER/graphs/commit-activity)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sbatrow/DARKSSH-MANAGER)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/sbatrow/DARKSS-HMANAGER/graphs/contributors)        
+[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/ASHIRUMALSHAN/SSH-MANAGER/graphs/contributors)        
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-GPL-blue)](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/LICENSE)
 
 
 
 
-SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙවලම් සමූහයක් සහිත පිටපතකි
+                 SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙවලම් සමූහයක් සහිත පිටපතකි
                  භාවිතය කෙරෙහි අවධානය යොමු කරමින් ලිනක්ස් සේවාදායකයන් හැසිරවීමේ අතිශය පහසුවක් ලබා දෙන්න
                  VPN, යන්ත්රය පිළිබඳ සවිස්තරාත්මක තොරතුරු සපයන ප්රසන්න අතුරු මුහුණතක් ඇත
                  සහ පරිශීලකයින් ...
                  
- SCRIPT DARKSSH MANAGER is a copy with the appropriate set of features and tools
+                 SCRIPT DARKSSH MANAGER is a copy with the appropriate set of features and tools
                  Focus on usage and make Linux clients extremely easy to handle
                  VPN has a pleasant interface that provides detailed information about the machine               
                  And users ...
                  
                                                           
                    @ Auto genarate                                                                                  @ Banner
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
+<img align="right" src="https://github.com/ASHIRUMALSHAN/SSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
   
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
+![logo](https://github.com/ASHIRUMALSHAN/SSH-MANAGER/blob/main/image/outo.jpg)                 
          
 **Manager Script**
 
@@ -84,10 +84,11 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 # 😍 Credits
 
 1. @crazy_vpn - Developer of SSHPlus Manager
+2. @sibatrow - sinhala version
 
-# 🏃‍contact me
+# 📞 contact me
 
-3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) 
+3. [@ASHIRU MALSHAN 🇱🇰](https://t.me/ASHIRUMALSHANBOT) 
 
 ```
 * NO MINING!
@@ -98,9 +99,9 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 ```
 
 ```
-☆ [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) ☆
+☆ [UNLIMITED worldᵀᴹ](https://t.me/unlimitedworldteam) ☆
 ```
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
 
-**By: Batrow tech 🇱🇰 **
+**⚡ By: UNLIMITED worldᵀᴹ **
