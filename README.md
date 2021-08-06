@@ -28,7 +28,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AS
 
 ```
 
-# @AAHIRU MALSHAN 🇱🇰 
+# @ASHIRU MALSHAN 🇱🇰 
 
 -------------------------------------------------------------------------------
 
@@ -98,9 +98,8 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AS
 * RELEASED FILES (DECENCRYPTED)
 ```
 
-```
-☆ [UNLIMITED worldᵀᴹ](https://t.me/unlimitedworldteam) ☆
-```
+☁ [UNLIMITED worldᵀᴹ](https://t.me/unlimitedworldteam)
+
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
 
